@@ -1,0 +1,2 @@
+INSERT INTO user(tel, password) VALUE(13713877610, '123456');
+INSERT INTO user(tel, password) VALUE(15816848681, '123456');
